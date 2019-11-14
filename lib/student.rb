@@ -1,4 +1,5 @@
 class Student < User 
 
-  def 
+  def initialize 
+    @knowledge 
 end
